@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ConsoleApplication3/ConsoleApplication3.vcxproj" Id="51d10eb4-0748-4bc9-9fbe-d5d55be01199" />
+  <Project Path="MoneyLibDLL.vcxproj" Id="e60222d7-c8c5-4e55-b8f6-dfbcbd2037d6" />
+</Solution>
